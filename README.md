@@ -1,6 +1,16 @@
-My name is Madhukumar V and  I'm a  Data Analyst
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Passionate about transforming data into actionable insights. Skilled in SQL, Python, Excel, Power BI, and Tableau, with experience in data cleaning, trend analysis, and dashboard creation. Eager to learn and contribute to data-driven decision-making. 🚀
+###
+
+<p align="left">My name is Madhukumar V and  I'm a  Data Analyst </p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+<p align="left">Passionate about transforming data into actionable insights. Skilled in SQL, Python, Excel, Power BI, and Tableau, with experience in data cleaning, trend analysis, and dashboard creation. Eager to learn and contribute to data-driven decision-making.</p> 
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhukumar-v/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhu8323@gmail.com) 
